@@ -1,5 +1,7 @@
 <?php 
 /*Master Branch*/
 print "Hello, Octo Cat!";
-exit();
+/*Never exit*/
+if (false)
+	exit();
 ?>
