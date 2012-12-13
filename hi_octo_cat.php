@@ -1,6 +1,6 @@
 <?php 
 /*Master Branch*/
-print "Hello, Octo Cat!";
+print "Hello - Hello, Octo Cat!";
 /*Never exit*/
 if (false)
 	exit();
